@@ -9,7 +9,7 @@ public class FirstDay {
       //Value assignment
       a=2;
       b=3;
-      //Perform Add
+      
       c=a+b;
       System.out.println("sum : "+c);
 
